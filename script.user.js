@@ -7,7 +7,7 @@
 // @description:tr Bu script oyun görünümünü iyileştirmeyi ve yeni özellikler sunarak oyun deneyiminizi arttırmayı amaçlıyor.
 // @description:de Dieses Skript zielt darauf ab, das Erscheinungsbild des Spiels zu verbessern und Ihr Spielerlebnis durch Hinzufügen neuer Funktionen zu verbessern.
 
-// @version        1.0.0.0
+// @version        4.0.0.0
 // @icon           https://i.ibb.co/tJC5RX3/HFWRRt6.png
 
 // @namespace      https://greasyfork.org/users/83290
